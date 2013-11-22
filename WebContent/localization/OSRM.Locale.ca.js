@@ -51,14 +51,14 @@ OSRM.Localization["ca"] = {
 "GUI_MIN": "mín",
 "GUI_S": "s",
 // mapping
-"GUI_MAPPING_TOOLS": "Eines de mapatge",
+"GUI_MAPPING_TOOLS": "Eines de cartografia",
 "GUI_HIGHLIGHT_UNNAMED_ROADS": "Realça les vies sense nom",
 "GUI_SHOW_PREVIOUS_ROUTES": "Mostra les rutes anteriors",
 "OPEN_JOSM": "Editor",
 "OPEN_OSMBUGS": "Notes",
 // geocoder
 "SEARCH_RESULTS": "Cerca resultats",
-"FOUND_X_RESULTS": "trobat %i resultats",
+"FOUND_X_RESULTS": "s'han trobat %i resultats",
 "TIMED_OUT": "Timed Out",
 "NO_RESULTS_FOUND": "No s'ha trobat cap resultat",
 "NO_RESULTS_FOUND_SOURCE": "No s'ha trobat cap resultats per a l'inici",
@@ -108,7 +108,7 @@ OSRM.Localization["ca"] = {
 "DIRECTION_3":"Gireu a la dreta (per <b>%s</b>)",
 "DIRECTION_4":"Feu un gir tancat a la dreta (per <b>%s</b>)",
 "DIRECTION_5":"Feu un canvi de sentit (per <b>%s</b>)",
-"DIRECTION_6":"Feu un gir tanct a l'esquerra (per <b>%s</b>)",
+"DIRECTION_6":"Feu un gir tancat a l'esquerra (per <b>%s</b>)",
 "DIRECTION_7":"Gireu a l'esquerra (per <b>%s</b>)",
 "DIRECTION_8":"Feu un gir suau a l'esquerra (per <b>%s</b>)",
 "DIRECTION_10":"Aneu cap <b>%d</b> (per <b>%s</b>)",
@@ -132,12 +132,12 @@ OSRM.Localization["ca"] = {
 									"Mentrestant, si voleu podeu sortir fora i mapar un barri proper..." + 
 									"<br/><br/><br/>[OSRM]",
 "NOTIFICATION_LOCALIZATION_HEADER":	"Sabíeu que... podeu canviar la llengua?",
-"NOTIFICATION_LOCALIZATION_BODY":	"You can use the pulldown menu in the upper left corner to select your favorite language. " +
+"NOTIFICATION_LOCALIZATION_BODY":	"Podeu usar el menú desplegable de la cantonada superior esquerra per seleccionar la llengua. " +
 									"<br/><br/>" +
 									"No defalliu si la vostra llengua no és disponible. " +
-									"Si voleu, poden ajudar propocionant-nos noves traduccions! " +
+									"Si voleu, podeu ajudar propocionant-nos noves traduccions! " +
 									"Aneu <a href='https://github.com/DennisSchiefer/Project-OSRM-Web'>aquí</a> per a més informació.",
-"NOTIFICATION_CLICKING_HEADER":		"Sabíeu que... podeu clicar al mapa per posar-hi punts de ruta?",
+"NOTIFICATION_CLICKING_HEADER":		"Sabíeu que... podeu clicar al mapa per a posar-hi punts de ruta?",
 "NOTIFICATION_CLICKING_BODY":		"Podeu clicar al mapa amb el botó primari del ratolí per establir el punt d'inici (verd) o un punt final (vermell), " +
 									"si el punt d'inici ja existeix. " +
 									"L'adreça de l'ubicació seleccionada es mostrarà en les caixes de l'esquerra. " + 
